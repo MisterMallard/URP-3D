@@ -9,4 +9,5 @@
 # Cinemachine 
 <img width="650" height="676" alt="obraz" src="Recording 2026-06-17 125102.gif"/>
 
-
+Character controller en Input System
+<img width="650" height="676" alt="obraz" src="Recording 2026-06-17 143606.gif"/>
